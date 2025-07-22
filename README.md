@@ -13,7 +13,3 @@ This repository contains various pattern printing programs written in Java. Thes
 
 ## 🚀 Getting Started
 Clone the repo and run any `.java` file using your preferred IDE or terminal.
-
-```bash
-javac Basic.java
-java Basic
